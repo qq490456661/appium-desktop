@@ -113,7 +113,7 @@
     "electron": "./node_modules/.bin/electron"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.4.0",
+    "@babel/polyfill": "^7.8.3",
     "ansi-to-html": "~0.6.7",
     "antd": "^3.25.2",
     "appium": "^1.15.0",
